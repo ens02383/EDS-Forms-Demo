@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: https://author-p133911-e1313554.adobeaemcloud.com/bin/franklin.delivery/jalagari/demo/main
+    url: https://adobe.sharepoint.com/sites/mortgage-calculator/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2Fmortgage%2Dcalculator%2FShared%20Documents%2Fnew%2Dwebsite&viewid=69fd3221%2Dde34%2D497d%2Da203%2D0203e43a7e4c
     type: "markup"
     suffix: ".html"
