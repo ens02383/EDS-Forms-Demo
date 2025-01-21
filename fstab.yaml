@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: https://adobe.sharepoint.com/:f:/r/sites/mortgage-calculator/Shared%20Documents/new-website?csf=1&web=1&e=lFIgm1
+    url: https://adobe.sharepoint.com/:f:/r/sites/mortgage-calculator/Shared%20Documents/website?csf=1&web=1&e=7BldpK
     type: "markup"
     suffix: ".html"
